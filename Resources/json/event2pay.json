@@ -1,0 +1,20 @@
+{
+	"event2pay":[
+		{  "eventid": 1, "payid": 1, "state": true, "isprotected": false, "触发描述": "玩家登录游戏时弹出的购买礼包" },
+		{  "eventid": 2, "payid": 2, "state": true, "isprotected": false, "触发描述": "第一关通关弹出的购买礼包" },
+		{  "eventid": 3, "payid": 3, "state": true, "isprotected": false, "触发描述": "第二关通关弹出的购买礼包" },
+		{  "eventid": 4, "payid": 4, "state": true, "isprotected": false, "触发描述": "第二关失败弹出的购买礼包" },
+		{  "eventid": 5, "payid": 5, "state": true, "isprotected": false, "触发描述": "关卡失败弹出的购买礼包" },
+		{  "eventid": 6, "payid": 6, "state": true, "isprotected": false, "触发描述": "关卡胜利弹出的购买礼包" },
+		{  "eventid": 7, "payid": 7, "state": true, "isprotected": false, "触发描述": "钻石<150且玩家没有道具，点击道具弹出的购买礼包"},
+		{  "eventid": 8, "payid": 8, "state": true, "isprotected": false, "触发描述": "玩家商城购买道具" },
+		{  "eventid": 9, "payid": 9, "state": true, "isprotected": false, "触发描述": "玩家商城购买道具" },
+		{  "eventid": 10, "payid": 10, "state": true, "isprotected": false, "触发描述": "玩家商城购买道具" },
+		{  "eventid": 11, "payid": 11, "state": true, "isprotected": false, "触发描述": "玩家商城购买道具" },
+		{  "eventid": 12, "payid": 12, "state": true, "isprotected": false, "触发描述": "玩家商城购买道具" },
+		{  "eventid": 13, "payid": 13, "state": true, "isprotected": false, "触发描述": "玩家商城购买道具" },
+		{  "eventid": 14, "payid": 14, "state": true, "isprotected": false, "触发描述": "游戏失败弹出界面" }
+	],
+	"protected_pay_point": 0,
+	"event_version": 100
+}

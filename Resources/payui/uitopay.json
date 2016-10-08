@@ -1,0 +1,18 @@
+{
+	"uipoints":[
+		{ "uipoint": 1, "type": "free", "paypoint": 1 },
+		{ "uipoint": 2, "type": "free", "paypoint": 2 },
+		{ "uipoint": 3, "type": "free", "paypoint": 3 },
+		{ "uipoint": 4, "type": "free", "paypoint": 4 },
+		{ "uipoint": 5, "type": "free", "paypoint": 5 },
+		{ "uipoint": 6, "type": "free", "paypoint": 6 },
+		{ "uipoint": 7, "type": "free", "paypoint": 7 },
+		{ "uipoint": 8, "type": "free", "paypoint": 8 },
+		{ "uipoint": 9, "type": "free", "paypoint": 9 },
+		{ "uipoint": 10, "type": "free", "paypoint": 10 },
+		{ "uipoint": 11, "type": "free", "paypoint": 11 },
+		{ "uipoint": 12, "type": "free", "paypoint": 12 },
+		{ "uipoint": 13, "type": "free", "paypoint": 13 },
+		{ "uipoint": 14, "type": "free", "paypoint": 14 }
+	]
+}

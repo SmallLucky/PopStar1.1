@@ -1,0 +1,19 @@
+{
+	"paypoint":[
+		{ "id": 1, "name": "超值礼包", "price": 1000, "desc": "登录礼包10.0元251钻石","describe": [ { "propid": 1, "propnum": 251 } ] },
+		{ "id": 2, "name": "超值礼包", "price": 1000, "desc": "第一关通关礼包，10.0元120钻石，三种道具各三个","describe": [ { "propid": 1, "propnum": 120 },{ "propid": 2, "propnum": 3 } ,{ "propid": 3, "propnum": 3 },{ "propid": 4, "propnum": 3 }] },
+		{ "id": 3, "name": "礼品赠送", "price": 0, "desc": "第二关通关礼包，0元30钻石","describe": [ { "propid": 1, "propnum": 30 } ] },
+		{ "id": 4, "name": "礼品赠送", "price": 0, "desc": "第二关失败礼包，0元三种道具各1个","describe": [ { "propid": 2, "propnum": 1 },{ "propid": 3, "propnum": 1 },{ "propid": 4, "propnum": 1 } ] },
+		{ "id": 5, "name": "超值礼包", "price": 1000, "desc": "关卡失败礼包10.0元220钻石","describe": [ { "propid": 1, "propnum": 220 } ] },
+		{ "id": 6, "name": "超值礼包", "price": 1000, "desc": "关卡胜利礼包10.0元50钻石，三种道具各5个","describe": [ { "propid": 1, "propnum": 50 }, { "propid": 2, "propnum": 5 }, { "propid": 3, "propnum": 5 }, { "propid": 4, "propnum": 5 } ] },
+		{ "id": 7, "name": "超值礼包", "price": 1000, "desc": "道具礼包10.0元三种道具各7个","describe": [ { "propid": 2, "propnum": 7 },{ "propid": 3, "propnum": 7}, { "propid": 4, "propnum": 7 } ] },
+		{ "id": 8, "name": "超值礼包", "price": 800, "desc": "商城8.00元购买获得80钻石,赠送80钻石,两个道具","describe": [ { "propid": 1, "propnum": 160 },{ "propid": 2, "propnum": 1 },{ "propid": 4, "propnum": 1} ] },
+		{ "id": 9, "name": "超值礼包", "price": 1000, "desc": "商城10.00元购买获得100钻石,赠送151钻石,两个道具","describe": [ { "propid": 1, "propnum": 251 },{ "propid": 2, "propnum": 1 },{ "propid": 3, "propnum": 1} ] },
+		{ "id": 10, "name": "超值礼包", "price": 1200, "desc": "商城12.00元购买获得120钻石,赠送180钻石,两个道具","describe": [ { "propid": 1, "propnum": 300 },{ "propid": 2, "propnum": 1 },{ "propid": 4, "propnum": 1} ] },
+		{ "id": 11, "name": "超值礼包", "price": 1400, "desc": "商城14.00元购买获得140钻石,赠送210钻石,两个道具","describe": [ { "propid": 1, "propnum": 350 } ,{ "propid": 2, "propnum": 1 },{ "propid": 3, "propnum": 1}] },
+		{ "id": 12, "name": "超值礼包", "price": 1600, "desc": "商城16.00元购买获得160钻石,赠送370钻石,两个道具","describe": [ { "propid": 1, "propnum": 530 } ,{ "propid": 2, "propnum": 1 },{ "propid": 4, "propnum": 1}] },
+		{ "id": 13, "name": "超值礼包", "price": 1800, "desc": "商城18.00元购买获得180钻石,赠送420钻石,两个道具","describe": [ { "propid": 1, "propnum": 600 } ,{ "propid": 2, "propnum": 1 },{ "propid": 3, "propnum": 1}] },
+		{ "id": 14, "name": "界面而已", "price": 0, "desc": "确定扣除玩家30钻石，取消不操作","describe": [] }
+	],
+	"pay_version": 100
+}
